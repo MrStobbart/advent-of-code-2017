@@ -1,4 +1,4 @@
-const calculateChecksum = require('./02-2_Checksum');
+const calculateChecksum = require('./02-2-checksum');
 
 it('shoud compute 18 for the example spreadsheet', () => {
   const spreadsheet =

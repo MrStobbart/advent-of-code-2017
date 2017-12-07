@@ -1,4 +1,4 @@
-const inverseCaptcha = require('./01-2_InverseCaptcha');
+const inverseCaptcha = require('./01-2-inverse-captcha');
 
 it('should compute 6 for 1212', () => {
   const result = inverseCaptcha('1212');
